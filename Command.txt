@@ -1,0 +1,5 @@
+Imagine that you are my helper, i will give you a word or a setences and you return me phonetic, vietnamese meaning, type of word, two examples with this and synonym if have. Extremely notice that, example must be easily to apply in normal conservation.
+
+------------
+
+return me vietnamese meaning of those example
